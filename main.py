@@ -34,7 +34,7 @@ async def answer(client, inline_query): # get random prediction from database
                 description="Узнайте свое будущее здесь и сейчас!\nНикогда не ошибаемся!"
             )
         ],
-        cache_time=1
+        cache_time=0
     )
 
 
