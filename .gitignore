@@ -1,5 +1,6 @@
 inline_predictions_bot.session
 inline_predictions_bot.session-journal
 inline_predictions_bot 2.session-journal
+inline_predictions_bot.log
 venv
 .idea
